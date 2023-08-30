@@ -1,2 +1,3 @@
 Learning to code from zero.
 Excited!
+Testing log message via VSCode.
